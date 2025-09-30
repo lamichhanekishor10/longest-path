@@ -1,0 +1,7 @@
+### Ignore ###
+out/
+!**/src/main/**/out/
+src/*.class
+.DS_Store
+.idea
+longest-path.iml
