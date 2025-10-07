@@ -94,8 +94,8 @@ In graphs that have consecutive integer IDs arrays rather than maps may save on 
 
 ### 3. What’s the computational complexity of your solution?    
 
-As every node and edge is visited once during the DFS, the time complexity is O(V + E).  Due to the cache and recursion stack, the space complexity is O(V). 
-In this case, V and E stand for the number of nodes and edges, respectively.
+As every node and edge is visited once during the DFS, the time complexity is O(V + E).  Due to the cache and recursion stack, the space complexity is O(V). In this case, V and E stand for the number of nodes and edges, respectively.
+
 ---
 
 ### 4. Are there any unusual cases that aren't handled?
@@ -118,7 +118,7 @@ Java apps may also take longer to launch.  When using serverless apps that need 
 
 The type of project will decide which option is best.  A good option for a large-scale backend system that requires structure and stability is Java with Spring Boot.  For creating enterprise-level apps and APIs, it offers useful features.
 
-considering its more basic syntax and number of tools, such pandas and scikit-learn, Python is frequently a superior option for jobs involving data analysis, automation, or artificial intelligence.
+Considering its more basic syntax and number of tools, such pandas and scikit-learn, Python is frequently a superior option for jobs involving data analysis, automation, or artificial intelligence.
 
 Frameworks such as React or Angular are useful for front-end development when combined with Java-based backends to create comprehensive online solutions.
 
